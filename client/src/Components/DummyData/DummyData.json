@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "record": "Compliance Plan and Calender",
+        "reviewOf": "Manager resonsible, reviewed and update, ACL conditions included int Compliance Plan",
+        "physical": "Yes",
+        "electronic": "No",
+        "resposibleDepartment": "Compliance",
+        "frequency": "Annaully",
+        "DueDate": "10/12/2021"
+    },
+    {
+        "id": 2,
+        "record": "Privacy Compliance plan",
+        "reviewOf": "Internal Procedures - Reviewed and updated",
+        "physical": "No",
+        "electronic": "Yes",
+        "resposibleDepartment": "Compliance",
+        "frequency": "Annaully",
+        "DueDate": "10/12/2021"
+    },
+    {
+        "id": 3,
+        "record": "Privacy Policy",
+        "reviewOf": "Available on Internal Mezy Portal, review, and update. Laise with HR Manager",
+        "physical": "Yes",
+        "electronic": "No",
+        "resposibleDepartment": "HR",
+        "frequency": "Quartely",
+        "DueDate": "10/12/2021"
+    },
+    {
+        "id": 4,
+        "record": "Core Logic",
+        "reviewOf": "RP Data subscription - 2 year contract from 14/08/2018",
+        "physical": "No",
+        "electronic": "Yes",
+        "resposibleDepartment": "Credit",
+        "frequency": "Annaully",
+        "DueDate": "10/12/2021"
+    }
+]
